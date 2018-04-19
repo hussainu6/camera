@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>RPi Cam Preview</title>
+    <title>Smart Mirror Camera</title>
     <script src="js/script.js"></script>
 	<link rel="stylesheet" href="css/style_minified.css" />
   </head>
